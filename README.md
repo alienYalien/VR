@@ -14,15 +14,10 @@ WebAR由Web前端和EasyAR云服务组成，支持平面图片识别、云识别
 
 ## 三、效果图展示：
 
-<figure class="half">
-    <img src="https://github.com/alienYalien/VR/blob/master/img/1573613897582.jpeg" width="240px" />
-    <img src="https://github.com/alienYalien/VR/blob/master/img/1573613902095.jpeg" width="240px" />
-</figure>
-<figure class="half">
-    <img src="https://github.com/alienYalien/VR/blob/master/img/1573613909925.jpeg" width="240px" />
-    <img src="https://github.com/alienYalien/VR/blob/master/img/1573613913472.jpeg" width="250px" />
-</figure>
-
+<img src="https://github.com/alienYalien/VR/blob/master/img/1573613897582.jpeg" width="240px" />
+<img src="https://github.com/alienYalien/VR/blob/master/img/1573613902095.jpeg" width="240px" />
+<img src="https://github.com/alienYalien/VR/blob/master/img/1573613909925.jpeg" width="240px" />
+<img src="https://github.com/alienYalien/VR/blob/master/img/1573613913472.jpeg" width="250px" />
 
 ![图1](https://github.com/alienYalien/VR/blob/master/img/1573613897582.jpeg)![图2](https://github.com/alienYalien/VR/blob/master/img/1573613902095.jpeg)  
 ![图3](https://github.com/alienYalien/VR/blob/master/img/1573613909925.jpeg)![图4](https://github.com/alienYalien/VR/blob/master/img/1573613913472.jpeg)
