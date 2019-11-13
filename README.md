@@ -15,7 +15,7 @@ VR识别插件，EasyVR，可用于网页，微信小程序，手机app外置等
 <img src="https://github.com/alienYalien/VR/blob/master/img/1573613909925.jpeg" width="240px" />
 <img src="https://github.com/alienYalien/VR/blob/master/img/1573613913472.jpeg" width="250px" /> -->
 
-![图1](https://github.com/alienYalien/VR/blob/master/img/1573613897582.jpeg)![图2](https://github.com/alienYalien/VR/blob/master/img/1573613902095.jpeg)
+![图1](https://github.com/alienYalien/VR/blob/master/img/1573613897582.jpeg)![图2](https://github.com/alienYalien/VR/blob/master/img/1573613902095.jpeg)  
 ![图3](https://github.com/alienYalien/VR/blob/master/img/1573613909925.jpeg)![图4](https://github.com/alienYalien/VR/blob/master/img/1573613913472.jpeg)
 
 
